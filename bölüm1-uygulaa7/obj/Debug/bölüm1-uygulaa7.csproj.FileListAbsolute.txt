@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\bölüm1-uygulaa7\bölüm1-uygulaa7\obj\Debug\bölüm1-uygulaa7.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\bölüm1-uygulaa7\bölüm1-uygulaa7\obj\Debug\bölüm1-uygulaa7.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\bölüm1-uygulaa7\bölüm1-uygulaa7\obj\Debug\bölüm1_uygulaa7.Form1.resources
+C:\Users\User\source\repos\bölüm1-uygulaa7\bölüm1-uygulaa7\obj\Debug\bölüm1_uygulaa7.Properties.Resources.resources
+C:\Users\User\source\repos\bölüm1-uygulaa7\bölüm1-uygulaa7\obj\Debug\bölüm1-uygulaa7.csproj.GenerateResource.cache
+C:\Users\User\source\repos\bölüm1-uygulaa7\bölüm1-uygulaa7\obj\Debug\bölüm1-uygulaa7.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\bölüm1-uygulaa7\bölüm1-uygulaa7\bin\Debug\bölüm1-uygulaa7.exe.config
+C:\Users\User\source\repos\bölüm1-uygulaa7\bölüm1-uygulaa7\bin\Debug\bölüm1-uygulaa7.exe
+C:\Users\User\source\repos\bölüm1-uygulaa7\bölüm1-uygulaa7\bin\Debug\bölüm1-uygulaa7.pdb
+C:\Users\User\source\repos\bölüm1-uygulaa7\bölüm1-uygulaa7\obj\Debug\bölüm1-uygulaa7.exe
+C:\Users\User\source\repos\bölüm1-uygulaa7\bölüm1-uygulaa7\obj\Debug\bölüm1-uygulaa7.pdb
